@@ -1,4 +1,5 @@
-https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/s3_diagram_cloudfront_acm_route53_c2a411d6a4.png
+![0 VDhzpDhQ27pV7mCT](https://github.com/CTheTechGuru/AWS-Projects/assets/125163096/324e3313-61d6-4e35-ad1a-fb62c08a015c)
+
 
 I hosted a website on AWS using an S3 bucket, and I leveraged CloudFront as my CDN (Content Delivery Network).
 To ensure security and proper domain management, I also utilized Route 53 and Certificate Manager.

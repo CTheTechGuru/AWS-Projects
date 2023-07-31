@@ -19,7 +19,7 @@ Step 6: Obtained an SSL/TLS Certificate To secure my website with HTTPS, I utili
 
 Step 7: Testing and Finalizing Finally, I tested my website to ensure everything was working smoothly. I accessed it through my custom domain and confirmed that it was being served securely via HTTPS. I also checked that any changes made to the S3 bucket were reflected correctly through CloudFront's caching mechanism.
 
-I will continue to build on this project with mods and versions building on networking concepts, cloud security, as well as devops. In the future I will recreate this architecture through the cli and utilize IAC via terraform or cloudformation. It was an amazing learning experience, and I highly recommend anyone venturing into AWS taking on this challenge to enhance your skills and get familiar with how the services work in unison.
+
 
 https://www.clowman.cloud
 

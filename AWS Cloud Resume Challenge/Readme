@@ -1,6 +1,6 @@
 
 
-file:///C:/Users/clow/Desktop/CYBS%20Home%20Lab/New%20folder/Cloud%20Pics%20for%20repo/1%20HakjAwn54tGPAohofHsMmA.webp
+
 
 I hosted a website on AWS using an S3 bucket, and I leveraged CloudFront as my CDN (Content Delivery Network).
 To ensure security and proper domain management, I also utilized Route 53 and Certificate Manager.
